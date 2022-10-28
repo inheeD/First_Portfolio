@@ -1,7 +1,7 @@
 # First_Portfolio
 반려동물 커뮤니티 Pit A Pet
 
-Java 11, MySQL 8.0, Tomcat 9.0, eclipse 2021-03
+Java 11, MySQL 8.0, Tomcat 9.0, eclipse 2021-03(4.23)
 
 1. 마이페이지 전 로그인 확인
     - interceptor 기능 활용
