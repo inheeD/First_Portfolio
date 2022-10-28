@@ -14,6 +14,7 @@ Java 11, MySQL 8.0, Tomcat 9.0, eclipse 2021-03(4.23), lombok 1.18
     - 메모 게시글(CRUD)
 3. 캘린더 API
     - FullCalendar 5.11.3 이용
+    - ajax 사용
     - 유저별 스케줄 표시
     - 모달창으로 스케줄 CRUD
 4. 내 정보 수정 전 비밀번호 확인
