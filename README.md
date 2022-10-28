@@ -2,11 +2,11 @@
 반려동물 커뮤니티 Pit A Pet
 
 * 사용 Tool
-- Java 11
-- MySQL 8.0
-- Tomcat 9.0
-- eclipse 2021-03(4.23)
-- lombok 1.18
+Java 11
+MySQL 8.0
+Tomcat 9.0
+eclipse 2021-03(4.23)
+lombok 1.18
 
 1. 마이페이지 전 로그인 확인
     - interceptor 기능 활용
